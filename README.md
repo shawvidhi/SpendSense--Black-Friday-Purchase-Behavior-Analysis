@@ -15,7 +15,6 @@ A retail company, **ABC Pvt. Ltd.**, aims to:
 
 ## 📊 Dataset Overview
 
-- **Source**: [Black Friday Dataset – Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/black-friday/)
 - **Size**: ~550,000 rows
 - **Features**:
   - `User_ID`, `Product_ID`
