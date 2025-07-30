@@ -69,5 +69,3 @@ This dataset is now ready for machine learning modeling (e.g., Linear Regression
 - **scikit-learn** (for preprocessing)
 
 ---
-
-## 📂 Folder Structure
